@@ -1,0 +1,23 @@
+# java
+https://www.oracle.com/java/technologies/downloads/archive/
+
+# android studio
+https://developer.android.google.cn/studio
+
+# git
+https://git-scm.com/download/win
+
+# everything
+https://www.voidtools.com/zh-cn/
+
+# 有道词典
+https://dict.youdao.com
+
+# notepad++
+https://notepad-plus.en.softonic.com
+
+# sublime text
+https://sublimetextcn.com/3/
+
+# chrome
+https://www.google.cn/intl/zh-CN/chrome/
